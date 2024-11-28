@@ -11,21 +11,10 @@ Backend: Python, Flask, Flask-SocketIO
 Frontend: HTML, CSS, JavaScript
 AI Libraries: TextBlob, Googletrans
 Project Structure
-AI-Chat-App/
-│
-├── backend/
-│   ├── app.py           # Main Flask server
-│   ├── ai_utils.py      # AI utilities for sentiment analysis and translation
-│   └── requirements.txt # Python dependencies
-│
-├── frontend/
-│   ├── index.html       # Chat UI
-│   ├── styles.css       # Styling for the chat app
-│   └── main.js          # Frontend logic for socket communication
-│
-└── README.md            # Project documentation
-How to Run
-Prerequisites
+
+How to Run:
+
+Prerequisites:
 Ensure you have the following installed on your machine: - Python 3.7 or later - Node.js (for potential frontend expansions) - A modern web browser
 
 Step 1: Clone the Repository
