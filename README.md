@@ -58,4 +58,4 @@ Translated: ¡Me encanta esta aplicación!
 Future Improvements
 Advanced AI Models: Integrate GPT or BERT for richer interactions.
 Multilingual Support: Extend translations to more languages.
-Authentication: Add user login and authentication.
+Authentication: Add user login and authentication..
