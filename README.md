@@ -1,7 +1,7 @@
 # Real-Time-Chat-Application-using-Artificial-Intelligence
 This is an advanced real-time chat application built using Python and AI, featuring: - Real-time messaging through a Flask-SocketIO backend. - Sentiment analysis using TextBlob. - Language translation to Spanish using googletrans. - A responsive frontend powered by HTML, CSS, and JavaScript.
 
-Features
+Features:
 Real-time Communication: Enables live messaging between users.
 Sentiment Analysis: Messages are classified as positive, neutral, or negative based on sentiment.
 Language Translation: Messages are automatically translated into Spanish.
