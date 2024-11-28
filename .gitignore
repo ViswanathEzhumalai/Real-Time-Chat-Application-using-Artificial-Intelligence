@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+.venv/
+.VENV/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs and debug files
+*.log
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node.js files (if any in the frontend)
+node_modules/
+
+# Flask secret key file (if used)
+instance/
+
+# Compiled static files
+staticfiles/
+
+# Backup files
+*.swp
+*~
